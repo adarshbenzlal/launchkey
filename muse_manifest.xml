@@ -1,0 +1,63 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="launchkey.com" resolutions="1x" timestamp="1507356439752">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4174396608" ref="pre-order:contact:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4222877879" ref="pre-order:contact:index"/>
+    <file name="pre-order.css" crc="3828812856" ref="pre-order"/>
+    <file name="nomq_pre-order.css" crc="3846851567" ref="pre-order"/>
+    <file name="contact.css" crc="350532388" ref="contact"/>
+    <file name="nomq_contact.css" crc="406235632" ref="contact"/>
+    <file name="index.css" crc="528605147" ref="index"/>
+    <file name="nomq_index.css" crc="4042409813" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pre-order:contact"/>
+    <file name="museutils.js" crc="163421577" ref="index:pre-order:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pre-order:contact"/>
+    <file name="museconfig.js" crc="36584860" ref="index:pre-order:contact"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:pre-order:contact"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:pre-order:contact"/>
+    <file name="require.js" crc="244322403" ref="index:pre-order:contact"/>
+    <file name="webpro.js" crc="3848665353" ref="pre-order:contact"/>
+    <file name="form_check.php" crc="158155501" ref="pre-order:contact"/>
+    <file name="form_throttle.php" crc="3992970984" ref="pre-order:contact"/>
+    <file name="form_process.php" crc="4078697226" ref="pre-order:contact"/>
+    <file name="form-u7510.php" crc="3967181700" ref="pre-order"/>
+    <file name="form-u6584.php" crc="422211805" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u632.png" crc="4194779609" ref="index:pre-order:contact"/>
+    <file name="u632-r.png" crc="3890563840" ref="index:pre-order:contact"/>
+    <file name="order-now.svg" crc="472817148" seo="true" ref="index:pre-order:contact"/>
+    <file name="order now_poster_.png" crc="4063638285" ref="index:pre-order"/>
+    <file name="contact-us.svg" crc="4083889241" seo="true" ref="index:pre-order:contact"/>
+    <file name="contact us_poster_.png" crc="312923568" ref="index:pre-order"/>
+    <file name="text1-home.svg" crc="46509212" seo="true" ref="index"/>
+    <file name="text1 home_poster_.png" crc="37839283" ref="index"/>
+    <file name="11-launchkey.png" crc="4241879303" seo="true" ref="index"/>
+    <file name="text2-home.svg" crc="4229837856" seo="true" ref="index"/>
+    <file name="text2-home_poster_.png" crc="3981483805" ref="index"/>
+    <file name="10-launchkey-rear-960.jpg" crc="3909286002" seo="true" ref="index"/>
+    <file name="tech-spec-text.svg" crc="4221454079" seo="true" ref="index"/>
+    <file name="tech spec text_poster_.png" crc="280406263" ref="index"/>
+    <file name="designed-by-text.svg" crc="349519477" seo="true" ref="index:pre-order:contact"/>
+    <file name="designed by text_poster_.png" crc="194987823" ref="index:pre-order"/>
+    <file name="11-launchkey267x225.png" crc="4220318891" seo="true" ref="index"/>
+    <file name="11-launchkey247x207.png" crc="414335052" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:pre-order:contact"/>
+    <file name="shop.svg" crc="4213194789" seo="true" ref="pre-order"/>
+    <file name="shop_poster_.png" crc="499272477" ref="pre-order"/>
+    <file name="rate.svg" crc="73762362" seo="true" ref="pre-order"/>
+    <file name="rate_poster_.png" crc="4164829784" ref="pre-order"/>
+    <file name="2-lk-rgbs_1.png" crc="423036045" seo="true" ref="pre-order"/>
+    <file name="preorder-now.svg" crc="85801521" seo="true" ref="pre-order"/>
+    <file name="preorder now_poster_.png" crc="4262687098" ref="pre-order"/>
+    <file name="2-lk-rgbs_1404x152.png" crc="102578031" seo="true" ref="pre-order"/>
+    <file name="customizable_novation_launch_key_49_product_shot.png" crc="4183591625" seo="true" ref="contact"/>
+    <file name="cu.svg" crc="326714912" seo="true" ref="contact"/>
+    <file name="cu_poster_.png" crc="4083670126" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="4156104751" seo="true" mt="1507356235990" redirect="true"/>
+  <file name="pre-order.html" crc="3832226937" seo="true" mt="1507356412189" redirect="true"/>
+  <file name="contact.html" crc="4222918012" seo="true" mt="1507356303878" redirect="true"/>
+</manifest>
